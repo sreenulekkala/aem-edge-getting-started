@@ -1,5 +1,5 @@
 mountpoints:
-  /:
-    url: "http://localhost:4506/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://newyorklife-my.sharepoint.com/:w:/r/personal/slekkala_newyorklife_com/Documents/nyl
+
+folders:
+  /en
